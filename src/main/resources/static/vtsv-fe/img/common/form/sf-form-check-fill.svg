@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="그룹_20360" data-name="그룹 20360" transform="translate(-120 -1850)">
+    <g id="그룹_20999" data-name="그룹 20999">
+      <g id="그룹_21000" data-name="그룹 21000">
+        <g id="사각형_411" data-name="사각형 411" transform="translate(120 1850)" fill="#fff" stroke="#5e799a" stroke-width="2">
+          <rect width="36" height="36" rx="5" stroke="none"/>
+          <rect x="1" y="1" width="34" height="34" rx="4" fill="none"/>
+        </g>
+        <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M6.88,19.387.3,12.8a1.013,1.013,0,0,1,0-1.432L1.729,9.938a1.013,1.013,0,0,1,1.432,0L7.6,14.373l9.5-9.5a1.013,1.013,0,0,1,1.432,0l1.432,1.432a1.013,1.013,0,0,1,0,1.432L8.313,19.387A1.013,1.013,0,0,1,6.88,19.387Z" transform="translate(127.894 1855.893)" fill="#002c5f"/>
+      </g>
+    </g>
+  </g>
+</svg>
